@@ -20,9 +20,9 @@ function Contact() {
 
     try {
       await axios.post(
-        "http://localhost:5000/api/contact",
-        form
-      );
+  "https://myportfolio-backend-rl2r.onrender.com/api/contact",
+  formData
+);
 
       alert("✅ Message Sent Successfully");
 
