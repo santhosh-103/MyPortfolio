@@ -187,7 +187,7 @@ function Hero() {
 
           <div className="bg-slate-900/80 backdrop-blur-sm px-8 py-5 rounded-2xl border border-slate-800 hover:border-cyan-400 transition-all">
             <h3 className="text-3xl font-bold text-cyan-400">
-              4+
+              5+
             </h3>
             <p className="text-slate-400 text-sm">
               Major Projects

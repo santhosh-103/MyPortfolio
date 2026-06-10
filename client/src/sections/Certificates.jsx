@@ -190,7 +190,7 @@ function Certificates() {
             "
           >
             <h3 className="text-4xl font-bold text-cyan-400">
-              4+
+              5+
             </h3>
 
             <p className="text-slate-400 mt-2">

@@ -85,7 +85,7 @@ function About() {
 
             <div className="bg-slate-900 p-6 rounded-2xl text-center border border-slate-800 hover:border-cyan-400 transition-all">
               <h3 className="text-4xl font-bold text-cyan-400">
-                4+
+                5+
               </h3>
               <p className="text-slate-400 mt-2">
                 Major Projects

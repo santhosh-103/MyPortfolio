@@ -27,6 +27,14 @@ function Projects() {
       github:
         "https://github.com/santhosh-103/ECORAIZ-The_Smart_Planting",
     },
+    {
+  title: "Instagram Clone",
+  description:
+    "A fully functional Instagram-inspired social media frontend built with React.js and Vite. Features stories, posts, profile editing, follower management, responsive UI, and JSON Server API integration.",
+  tech: "React, Vite, JavaScript, CSS, JSON Server",
+  live: "https://instagram-clone-lime-five.vercel.app",
+  github: "https://github.com/santhosh-103/Instagram_Clone",
+},
 
     {
       title: "QuietConvert",
